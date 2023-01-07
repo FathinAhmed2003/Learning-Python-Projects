@@ -1,4 +1,4 @@
-secret_word = "hoe"
+secret_word = "hi"
 guess = ""
 guess_count = 0
 guess_limit = 3
